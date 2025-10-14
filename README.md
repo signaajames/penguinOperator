@@ -1,5 +1,6 @@
-Hi, I’m **@penguinOperator**
-I’m currently learning Dart for game development with Flame and apps with Flutter.
-I'm also learning JavaScript, you can see my learning progression and files in my "Learning JS" repo.
+Hello, I'm PenguinOperator/Signaa James, I go by Pgnop, pronounced "P-gun-op".
 
-You can reach me by my mail: *penguingnop@gmail.com*
+I'm taking the Codeacademy backend path learning to code.
+I like to do Web dev and sometimes Game dev.
+
+> System32 backup. Please do not delete.
